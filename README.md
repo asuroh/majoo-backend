@@ -22,8 +22,7 @@ create table and insert data dummy :
 
 Step 2
 - configuration env 
-example : 
-env.example
+- example : env.example
 
 Step 3
 ```
